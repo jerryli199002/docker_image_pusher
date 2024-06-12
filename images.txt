@@ -1,1 +1,9 @@
 nginx
+mysql/mysql-server:8.0.32
+redis:7.0.0
+rabbitmq:3.7.23
+nacos/nacos-server:v2.3.1
+xuxueli/xxl-job-admin:2.3.1
+xuxueli/xxl-job-admin:2.4.0
+alibabadragonwell/dragonwell:17-anolis
+alibabadragonwell/dragonwell:21-anolis
